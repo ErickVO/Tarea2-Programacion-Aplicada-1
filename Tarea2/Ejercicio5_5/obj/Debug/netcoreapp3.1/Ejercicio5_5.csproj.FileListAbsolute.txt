@@ -1,0 +1,11 @@
+C:\Users\LENOVO\source\repos\Ejercicio5_5\bin\Debug\netcoreapp3.1\Ejercicio5_5.exe
+C:\Users\LENOVO\source\repos\Ejercicio5_5\bin\Debug\netcoreapp3.1\Ejercicio5_5.deps.json
+C:\Users\LENOVO\source\repos\Ejercicio5_5\bin\Debug\netcoreapp3.1\Ejercicio5_5.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Ejercicio5_5\bin\Debug\netcoreapp3.1\Ejercicio5_5.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\Ejercicio5_5\bin\Debug\netcoreapp3.1\Ejercicio5_5.dll
+C:\Users\LENOVO\source\repos\Ejercicio5_5\bin\Debug\netcoreapp3.1\Ejercicio5_5.pdb
+C:\Users\LENOVO\source\repos\Ejercicio5_5\obj\Debug\netcoreapp3.1\Ejercicio5_5.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\Ejercicio5_5\obj\Debug\netcoreapp3.1\Ejercicio5_5.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Ejercicio5_5\obj\Debug\netcoreapp3.1\Ejercicio5_5.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Ejercicio5_5\obj\Debug\netcoreapp3.1\Ejercicio5_5.dll
+C:\Users\LENOVO\source\repos\Ejercicio5_5\obj\Debug\netcoreapp3.1\Ejercicio5_5.pdb

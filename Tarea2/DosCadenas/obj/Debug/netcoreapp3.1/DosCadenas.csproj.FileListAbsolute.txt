@@ -1,0 +1,11 @@
+C:\Users\LENOVO\source\repos\DosCadenas\bin\Debug\netcoreapp3.1\DosCadenas.exe
+C:\Users\LENOVO\source\repos\DosCadenas\bin\Debug\netcoreapp3.1\DosCadenas.deps.json
+C:\Users\LENOVO\source\repos\DosCadenas\bin\Debug\netcoreapp3.1\DosCadenas.runtimeconfig.json
+C:\Users\LENOVO\source\repos\DosCadenas\bin\Debug\netcoreapp3.1\DosCadenas.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\DosCadenas\bin\Debug\netcoreapp3.1\DosCadenas.dll
+C:\Users\LENOVO\source\repos\DosCadenas\bin\Debug\netcoreapp3.1\DosCadenas.pdb
+C:\Users\LENOVO\source\repos\DosCadenas\obj\Debug\netcoreapp3.1\DosCadenas.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\DosCadenas\obj\Debug\netcoreapp3.1\DosCadenas.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\DosCadenas\obj\Debug\netcoreapp3.1\DosCadenas.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\DosCadenas\obj\Debug\netcoreapp3.1\DosCadenas.dll
+C:\Users\LENOVO\source\repos\DosCadenas\obj\Debug\netcoreapp3.1\DosCadenas.pdb

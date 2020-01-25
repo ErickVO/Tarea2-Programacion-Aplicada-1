@@ -1,0 +1,11 @@
+C:\Users\LENOVO\source\repos\Ejercicio7_1_Calificaciones\obj\Debug\netcoreapp3.1\Ejercicio7_1_Calificaciones.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\Ejercicio7_1_Calificaciones\obj\Debug\netcoreapp3.1\Ejercicio7_1_Calificaciones.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Ejercicio7_1_Calificaciones\obj\Debug\netcoreapp3.1\Ejercicio7_1_Calificaciones.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Ejercicio7_1_Calificaciones\bin\Debug\netcoreapp3.1\Ejercicio7_1_Calificaciones.exe
+C:\Users\LENOVO\source\repos\Ejercicio7_1_Calificaciones\bin\Debug\netcoreapp3.1\Ejercicio7_1_Calificaciones.deps.json
+C:\Users\LENOVO\source\repos\Ejercicio7_1_Calificaciones\bin\Debug\netcoreapp3.1\Ejercicio7_1_Calificaciones.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Ejercicio7_1_Calificaciones\bin\Debug\netcoreapp3.1\Ejercicio7_1_Calificaciones.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\Ejercicio7_1_Calificaciones\bin\Debug\netcoreapp3.1\Ejercicio7_1_Calificaciones.dll
+C:\Users\LENOVO\source\repos\Ejercicio7_1_Calificaciones\bin\Debug\netcoreapp3.1\Ejercicio7_1_Calificaciones.pdb
+C:\Users\LENOVO\source\repos\Ejercicio7_1_Calificaciones\obj\Debug\netcoreapp3.1\Ejercicio7_1_Calificaciones.dll
+C:\Users\LENOVO\source\repos\Ejercicio7_1_Calificaciones\obj\Debug\netcoreapp3.1\Ejercicio7_1_Calificaciones.pdb

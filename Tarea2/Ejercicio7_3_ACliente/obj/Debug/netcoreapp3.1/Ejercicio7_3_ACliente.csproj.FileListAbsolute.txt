@@ -1,0 +1,11 @@
+C:\Users\LENOVO\source\repos\Ejercicio7_3_ACliente\bin\Debug\netcoreapp3.1\Ejercicio7_3_ACliente.exe
+C:\Users\LENOVO\source\repos\Ejercicio7_3_ACliente\bin\Debug\netcoreapp3.1\Ejercicio7_3_ACliente.deps.json
+C:\Users\LENOVO\source\repos\Ejercicio7_3_ACliente\bin\Debug\netcoreapp3.1\Ejercicio7_3_ACliente.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Ejercicio7_3_ACliente\bin\Debug\netcoreapp3.1\Ejercicio7_3_ACliente.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\Ejercicio7_3_ACliente\bin\Debug\netcoreapp3.1\Ejercicio7_3_ACliente.dll
+C:\Users\LENOVO\source\repos\Ejercicio7_3_ACliente\bin\Debug\netcoreapp3.1\Ejercicio7_3_ACliente.pdb
+C:\Users\LENOVO\source\repos\Ejercicio7_3_ACliente\obj\Debug\netcoreapp3.1\Ejercicio7_3_ACliente.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\Ejercicio7_3_ACliente\obj\Debug\netcoreapp3.1\Ejercicio7_3_ACliente.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Ejercicio7_3_ACliente\obj\Debug\netcoreapp3.1\Ejercicio7_3_ACliente.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Ejercicio7_3_ACliente\obj\Debug\netcoreapp3.1\Ejercicio7_3_ACliente.dll
+C:\Users\LENOVO\source\repos\Ejercicio7_3_ACliente\obj\Debug\netcoreapp3.1\Ejercicio7_3_ACliente.pdb

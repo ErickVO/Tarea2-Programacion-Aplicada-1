@@ -1,0 +1,11 @@
+C:\Users\LENOVO\source\repos\Ejercicio_Fecha\bin\Debug\netcoreapp3.1\Ejercicio_Fecha.exe
+C:\Users\LENOVO\source\repos\Ejercicio_Fecha\bin\Debug\netcoreapp3.1\Ejercicio_Fecha.deps.json
+C:\Users\LENOVO\source\repos\Ejercicio_Fecha\bin\Debug\netcoreapp3.1\Ejercicio_Fecha.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Ejercicio_Fecha\bin\Debug\netcoreapp3.1\Ejercicio_Fecha.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\Ejercicio_Fecha\bin\Debug\netcoreapp3.1\Ejercicio_Fecha.dll
+C:\Users\LENOVO\source\repos\Ejercicio_Fecha\bin\Debug\netcoreapp3.1\Ejercicio_Fecha.pdb
+C:\Users\LENOVO\source\repos\Ejercicio_Fecha\obj\Debug\netcoreapp3.1\Ejercicio_Fecha.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\Ejercicio_Fecha\obj\Debug\netcoreapp3.1\Ejercicio_Fecha.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Ejercicio_Fecha\obj\Debug\netcoreapp3.1\Ejercicio_Fecha.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Ejercicio_Fecha\obj\Debug\netcoreapp3.1\Ejercicio_Fecha.dll
+C:\Users\LENOVO\source\repos\Ejercicio_Fecha\obj\Debug\netcoreapp3.1\Ejercicio_Fecha.pdb

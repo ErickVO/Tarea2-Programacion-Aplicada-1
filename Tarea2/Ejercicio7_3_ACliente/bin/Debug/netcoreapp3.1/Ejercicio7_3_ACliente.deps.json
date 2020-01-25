@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ejercicio7_3_ACliente/1.0.0": {
+        "runtime": {
+          "Ejercicio7_3_ACliente.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio7_3_ACliente/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

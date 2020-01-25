@@ -1,0 +1,11 @@
+C:\Users\LENOVO\source\repos\Factorial_de_un_numero\bin\Debug\netcoreapp3.1\Factorial_de_un_numero.exe
+C:\Users\LENOVO\source\repos\Factorial_de_un_numero\bin\Debug\netcoreapp3.1\Factorial_de_un_numero.deps.json
+C:\Users\LENOVO\source\repos\Factorial_de_un_numero\bin\Debug\netcoreapp3.1\Factorial_de_un_numero.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Factorial_de_un_numero\bin\Debug\netcoreapp3.1\Factorial_de_un_numero.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\Factorial_de_un_numero\bin\Debug\netcoreapp3.1\Factorial_de_un_numero.dll
+C:\Users\LENOVO\source\repos\Factorial_de_un_numero\bin\Debug\netcoreapp3.1\Factorial_de_un_numero.pdb
+C:\Users\LENOVO\source\repos\Factorial_de_un_numero\obj\Debug\netcoreapp3.1\Factorial_de_un_numero.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\Factorial_de_un_numero\obj\Debug\netcoreapp3.1\Factorial_de_un_numero.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Factorial_de_un_numero\obj\Debug\netcoreapp3.1\Factorial_de_un_numero.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Factorial_de_un_numero\obj\Debug\netcoreapp3.1\Factorial_de_un_numero.dll
+C:\Users\LENOVO\source\repos\Factorial_de_un_numero\obj\Debug\netcoreapp3.1\Factorial_de_un_numero.pdb
